@@ -6,6 +6,10 @@ An English-language scenario mod starting on **1 January 1350**, available in tw
 
 *In-game screenshot of the 14K version at the start of the campaign.*
 
+![The 4K scenario running in-game on 1 January 1350](images/4k-in-game.png)
+
+*In-game screenshot of the 4K version at the start of the campaign.*
+
 ## Downloads
 
 | Version | Download | Map to select | Scenario to select |
