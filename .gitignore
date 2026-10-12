@@ -4,3 +4,9 @@
 *.tmp
 __pycache__/
 work/
+*.apk
+*.apks
+*.xapk
+*.jks
+*.keystore
+*.idsig

@@ -17,6 +17,10 @@ An English-language scenario mod starting on **1 January 1350**, available in tw
 | 4K / v1.1 | [Download 4K ZIP](https://github.com/pxnami/aoh2-medieval-1350/releases/download/v2.0/Medieval1350-4K-v1.1.zip) | Earth — 4,269 provinces | 1350 - Crowns and Plague (4K) |
 | 14K / v2.0 | [Download 14K ZIP](https://github.com/pxnami/aoh2-medieval-1350/releases/download/v2.0/Medieval1350-14K-v2.0.zip) | Earth 14K — 13,892 provinces | 1350 - The Medieval World (14K) |
 
+## Android — experimental
+
+[Download the Android mod and patcher](https://github.com/pxnami/aoh2-medieval-1350/releases/download/android-v0.1/Medieval1350-Android-v0.1.zip) for 4K, 14K or both. It requires your own standalone game APK and local alignment/signing; it is not a ready-to-install APK. Asset repacking has been checked, but phone installation and gameplay remain untested. Follow the [Android instructions](android/README.md).
+
 ## Installation
 
 1. Close the game.

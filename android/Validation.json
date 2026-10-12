@@ -1,0 +1,15 @@
+{
+  "status": "experimental; Android device runtime untested",
+  "changed_assets_both": 61,
+  "province_counts": {
+    "4k": 4269,
+    "14k": 13892
+  },
+  "base_owner_files_identical_to_desktop": true,
+  "merge_idempotence": [
+    "4k",
+    "14k",
+    "both"
+  ],
+  "manifest_and_dex_unchanged": true
+}
