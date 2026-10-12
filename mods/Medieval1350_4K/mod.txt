@@ -1,0 +1,6 @@
+{
+Name: "Medieval 1350 - Crowns and Plague (4K)",
+Description: "Europe-focused 1350 scenario on Earth, with 4269 provinces and 151 English decision events.",
+Tags: [ "Scenario" ],
+ChangeNote: "Standalone GitHub package",
+}

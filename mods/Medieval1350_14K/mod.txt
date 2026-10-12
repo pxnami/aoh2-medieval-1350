@@ -1,0 +1,6 @@
+{
+Name: "Medieval 1350 - The Medieval World (14K)",
+Description: "Detailed 1350 scenario on Earth 14K, with 13892 provinces, 545 ownership corrections and 333 English decision events.",
+Tags: [ "Scenario" ],
+ChangeNote: "Standalone GitHub package",
+}

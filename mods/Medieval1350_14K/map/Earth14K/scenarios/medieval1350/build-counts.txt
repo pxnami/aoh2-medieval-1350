@@ -1,0 +1,5 @@
+Map provinces: 13892
+Changed province ownership: 545
+Plague events: 322
+Total events: 333
+Active civilizations: 896

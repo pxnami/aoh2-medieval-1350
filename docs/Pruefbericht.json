@@ -1,0 +1,16 @@
+{
+  "validation": "PASS",
+  "map": "Earth14K",
+  "map_provinces": 13892,
+  "active_polities": 896,
+  "country_slots": 917,
+  "events": 333,
+  "plague_events": 322,
+  "dependencies": 107,
+  "hre_princes": 160,
+  "custom_civilizations": 6,
+  "errors": [],
+  "native_java_readback": "Passed in Build14K",
+  "in_game_test": "The new 14K scenario has not been started in-game; earlier 4K English scenario and plague popup were confirmed by user screenshots.",
+  "historical_accuracy": "Reviewed corrections are documented. Fixed province boundaries and inherited minor polities prevent a claim of complete historical accuracy."
+}

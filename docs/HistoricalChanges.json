@@ -1,0 +1,3349 @@
+{
+  "base": "Original game 1354 scenario, Earth14K",
+  "target_date": "1350-01-01",
+  "province_changes": [
+    {
+      "province": 80,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 82,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 88,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 89,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 90,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 91,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 92,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 93,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 95,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 97,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 98,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 99,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 100,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 101,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 102,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 103,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 104,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 105,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 106,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 107,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 108,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 109,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 110,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 111,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 133,
+      "from": "fra_m",
+      "to": "papa_o",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 1042,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1043,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1119,
+      "from": "tur_m",
+      "to": "byza_m",
+      "reason": "Ottoman permanent European bridgehead at Gallipoli dates to 1354."
+    },
+    {
+      "province": 1220,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 1246,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1247,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1248,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1249,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1250,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1251,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1252,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1253,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1255,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1256,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1257,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1258,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1259,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 1260,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 1264,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1265,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1266,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 1271,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 1272,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 1311,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 1318,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 1319,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 1435,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 1436,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 1579,
+      "from": "mala_m",
+      "to": "sikk_m",
+      "reason": "Malacca was founded after 1350; local coverage is approximated by Singapura."
+    },
+    {
+      "province": 1580,
+      "from": "mala_m",
+      "to": "sikk_m",
+      "reason": "Malacca was founded after 1350; local coverage is approximated by Singapura."
+    },
+    {
+      "province": 1581,
+      "from": "mala_m",
+      "to": "sikk_m",
+      "reason": "Malacca was founded after 1350; local coverage is approximated by Singapura."
+    },
+    {
+      "province": 1582,
+      "from": "mala_m",
+      "to": "sikk_m",
+      "reason": "Malacca was founded after 1350; local coverage is approximated by Singapura."
+    },
+    {
+      "province": 1746,
+      "from": "tokuw_d",
+      "to": "clas_d",
+      "reason": "Tokugawa is an anachronistic clan identity for 1350."
+    },
+    {
+      "province": 1748,
+      "from": "tokuw_d",
+      "to": "clas_d",
+      "reason": "Tokugawa is an anachronistic clan identity for 1350."
+    },
+    {
+      "province": 2201,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2206,
+      "from": "tur_m",
+      "to": "byza_m",
+      "reason": "Ottoman permanent European bridgehead at Gallipoli dates to 1354."
+    },
+    {
+      "province": 2213,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2214,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2217,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2218,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2219,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2220,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2222,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2223,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2229,
+      "from": "zeta3_m",
+      "to": "ser2_m",
+      "reason": "Zeta remains within the Serbian imperial structure."
+    },
+    {
+      "province": 2230,
+      "from": "alb2_m",
+      "to": "ser2_m",
+      "reason": "Serbian control of most Albanian interior after Dusan conquests."
+    },
+    {
+      "province": 2231,
+      "from": "alb2_m",
+      "to": "ser2_m",
+      "reason": "Serbian control of most Albanian interior after Dusan conquests."
+    },
+    {
+      "province": 2232,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 2233,
+      "from": "alb2_m",
+      "to": "ser2_m",
+      "reason": "Serbian control of most Albanian interior after Dusan conquests."
+    },
+    {
+      "province": 2271,
+      "from": "majj_m",
+      "to": "arag_m",
+      "reason": "Majorca was conquered by Aragon in 1349."
+    },
+    {
+      "province": 2272,
+      "from": "majj_m",
+      "to": "arag_m",
+      "reason": "Majorca was conquered by Aragon in 1349."
+    },
+    {
+      "province": 2273,
+      "from": "majj_m",
+      "to": "arag_m",
+      "reason": "Majorca was conquered by Aragon in 1349."
+    },
+    {
+      "province": 2274,
+      "from": "majj_m",
+      "to": "arag_m",
+      "reason": "Majorca was conquered by Aragon in 1349."
+    },
+    {
+      "province": 2279,
+      "from": "sard_m2",
+      "to": "arb2_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 2285,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 2597,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 2598,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 2607,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 2627,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 2628,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 2633,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 2749,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2750,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2751,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2752,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2753,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2754,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2755,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2823,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2824,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2843,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2844,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2845,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2846,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2847,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2848,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2849,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2850,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2851,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2852,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2853,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2854,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2855,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2856,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2857,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2858,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2859,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2860,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2862,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2863,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2864,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2865,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2866,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2867,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2868,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2869,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2872,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2873,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2874,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2875,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2876,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2878,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2879,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2880,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 2881,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2882,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2883,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2884,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2885,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2886,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2887,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2888,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2889,
+      "from": "zhu3_m",
+      "to": "yuan_m",
+      "reason": "Zhu Yuanzhang joined the rebellion after 1350."
+    },
+    {
+      "province": 2906,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 2909,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 2910,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 2940,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 2941,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 2942,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 2943,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 2944,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 2945,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 2946,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 2947,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 2948,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 2949,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 2950,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 2951,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 3008,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 3013,
+      "from": "sard_m2",
+      "to": "arb2_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 3041,
+      "from": "mot_m",
+      "to": "ser2_m",
+      "reason": "Zeta remains within the Serbian imperial structure."
+    },
+    {
+      "province": 3042,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 3045,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 3046,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 3056,
+      "from": "vid3_m",
+      "to": "bul_m",
+      "reason": "Separate Vidin tsardom begins later in the 1350s."
+    },
+    {
+      "province": 3058,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 3059,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 3060,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 3061,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 3062,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 3063,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 3064,
+      "from": "mot_m",
+      "to": "ser2_m",
+      "reason": "Zeta remains within the Serbian imperial structure."
+    },
+    {
+      "province": 3071,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 3074,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 3090,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 3091,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 3092,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 3151,
+      "from": "tur_m",
+      "to": "byza_m",
+      "reason": "Ottoman permanent European bridgehead at Gallipoli dates to 1354."
+    },
+    {
+      "province": 3234,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3235,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3236,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3237,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3238,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3239,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3240,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3241,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3242,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3480,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 3481,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 3482,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 3501,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 3502,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 3503,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 3504,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 3505,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 3508,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 3577,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 3583,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 3584,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 3585,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 3696,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3697,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3698,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3699,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3711,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3756,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3762,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3763,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3765,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3766,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3767,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3768,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3772,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3773,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3774,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3775,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3776,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3777,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3778,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3779,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3780,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 3782,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 5360,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5361,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5362,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5363,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5364,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5365,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5366,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5367,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5369,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5393,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5458,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5459,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5460,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5461,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5462,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5463,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5464,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5483,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5488,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5489,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5491,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5494,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5501,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5502,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5503,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5504,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5505,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5506,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5508,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5509,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5517,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5518,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5519,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5520,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5521,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5522,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5538,
+      "from": "kand_m",
+      "to": "medgampola_m",
+      "reason": "Separate Kandy kingdom is later; central highlands represented within Gampola."
+    },
+    {
+      "province": 5539,
+      "from": "kand_m",
+      "to": "medgampola_m",
+      "reason": "Separate Kandy kingdom is later; central highlands represented within Gampola."
+    },
+    {
+      "province": 5542,
+      "from": "kand_m",
+      "to": "medgampola_m",
+      "reason": "Separate Kandy kingdom is later; central highlands represented within Gampola."
+    },
+    {
+      "province": 5582,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5584,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5633,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5634,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5635,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5645,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5646,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5647,
+      "from": "guj_m",
+      "to": "delh_m",
+      "reason": "Independent Gujarat Sultanate belongs to the fifteenth century."
+    },
+    {
+      "province": 5839,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 5864,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 5890,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 5891,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 5956,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 5960,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 6001,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 6002,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6003,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6004,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6005,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6019,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 6078,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Historical capital or regional boundary correction; see Sources.md."
+    },
+    {
+      "province": 6247,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6248,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6249,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6250,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6252,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6254,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6255,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6256,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6257,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6258,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6259,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6271,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6272,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6273,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6274,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6275,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6276,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6277,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6279,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6280,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6281,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6284,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6285,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6290,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6291,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6292,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6293,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6294,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6295,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6296,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6298,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6299,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6300,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6301,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6306,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6307,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6308,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6309,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6310,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6311,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6312,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6313,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6314,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6315,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6320,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6321,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6322,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6323,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6324,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6325,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6326,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6327,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6328,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6329,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6330,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6331,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6332,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6333,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6334,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6335,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6336,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6337,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6338,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6339,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6340,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6341,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6342,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6343,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6344,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6345,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6346,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6347,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6348,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6349,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6350,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6351,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6352,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6353,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6354,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6355,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6356,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6357,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6358,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6359,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6360,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6361,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6362,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6363,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6364,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6365,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6366,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6367,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6368,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6374,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6375,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6377,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6378,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6379,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6380,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6381,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6383,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6385,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6389,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6390,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6391,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6392,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6393,
+      "from": "lian_m",
+      "to": "yuan_m",
+      "reason": "Yuan princely Yunnan is represented within Yuan administration."
+    },
+    {
+      "province": 6398,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6399,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6400,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6401,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6402,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6403,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6404,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6405,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6407,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6408,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6409,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6410,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6411,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 6412,
+      "from": "wudd_m",
+      "to": "yuan_m",
+      "reason": "Zhang Shicheng rose after 1350."
+    },
+    {
+      "province": 6413,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6414,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6415,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6416,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6419,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6420,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6421,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6422,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6423,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6424,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6425,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6426,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6427,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6443,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6446,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6447,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6450,
+      "from": "sogg_m",
+      "to": "yuan_m",
+      "reason": "Xu Shouhui established his regime after 1350."
+    },
+    {
+      "province": 6470,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 6506,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 6550,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 6563,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 6574,
+      "from": "majj_m",
+      "to": "arag_m",
+      "reason": "Majorca was conquered by Aragon in 1349."
+    },
+    {
+      "province": 6575,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 6576,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 6577,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 6578,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 6591,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 6608,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6611,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6612,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6625,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 6626,
+      "from": "mo_m",
+      "to": "hun_m",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 6634,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 6638,
+      "from": "alb2_m",
+      "to": "ser2_m",
+      "reason": "Serbian control of most Albanian interior after Dusan conquests."
+    },
+    {
+      "province": 6672,
+      "from": "mot_m",
+      "to": "ser2_m",
+      "reason": "Zeta remains within the Serbian imperial structure."
+    },
+    {
+      "province": 6673,
+      "from": "vid3_m",
+      "to": "bul_m",
+      "reason": "Separate Vidin tsardom begins later in the 1350s."
+    },
+    {
+      "province": 6713,
+      "from": "mala_m",
+      "to": "sikk_m",
+      "reason": "Malacca was founded after 1350; local coverage is approximated by Singapura."
+    },
+    {
+      "province": 6714,
+      "from": "mala_m",
+      "to": "sikk_m",
+      "reason": "Malacca was founded after 1350; local coverage is approximated by Singapura."
+    },
+    {
+      "province": 6720,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 6731,
+      "from": "jau_m",
+      "to": "delh_m",
+      "reason": "Jaunpur Sultanate was founded in 1394."
+    },
+    {
+      "province": 6804,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6805,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6806,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6807,
+      "from": "sung3_m",
+      "to": "yuan_m",
+      "reason": "Red Turban regimes developed after 1350."
+    },
+    {
+      "province": 6823,
+      "from": "mo_m",
+      "to": "gold_h",
+      "reason": "Moldavian frontier before independent Bogdan rule; province allocation is approximate."
+    },
+    {
+      "province": 6824,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 6825,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 6865,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 6866,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 6885,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 6886,
+      "from": "mot_m",
+      "to": "ser2_m",
+      "reason": "Zeta remains within the Serbian imperial structure."
+    },
+    {
+      "province": 6904,
+      "from": "herz3_m",
+      "to": "bosk_m",
+      "reason": "Hum belongs to the Bosnian banate in 1350."
+    },
+    {
+      "province": 6905,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 7255,
+      "from": "alb2_m",
+      "to": "ser2_m",
+      "reason": "Serbian control of most Albanian interior after Dusan conquests."
+    },
+    {
+      "province": 7256,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 7257,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 7258,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 7342,
+      "from": "mot_m",
+      "to": "ser2_m",
+      "reason": "Zeta remains within the Serbian imperial structure."
+    },
+    {
+      "province": 7351,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 7352,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 7353,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 7381,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 7382,
+      "from": "tras2_m",
+      "to": "cast_m",
+      "reason": "The Trastamara civil-war kingdom belongs to the later 1360s."
+    },
+    {
+      "province": 7429,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 7430,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 8059,
+      "from": "thq_m",
+      "to": "ser2_m",
+      "reason": "Thessaly conquered by Serbia in 1348."
+    },
+    {
+      "province": 8418,
+      "from": "tokuw_d",
+      "to": "clas_d",
+      "reason": "Tokugawa is an anachronistic clan identity for 1350."
+    },
+    {
+      "province": 8419,
+      "from": "tokuw_d",
+      "to": "clas_d",
+      "reason": "Tokugawa is an anachronistic clan identity for 1350."
+    },
+    {
+      "province": 10522,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10523,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10524,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10525,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10526,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10527,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10528,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10532,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10533,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10535,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10536,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10537,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10540,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10541,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10547,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 10548,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 10549,
+      "from": "fars_m",
+      "to": "medinju_m",
+      "reason": "Fars remained under the Injuid dynasty in 1350."
+    },
+    {
+      "province": 10550,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10551,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10552,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10554,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10555,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10556,
+      "from": "muzz3_m",
+      "to": "medinju_m",
+      "reason": "Fars under Injuid Abu Ishaq until the Muzaffarid conquest of 1353."
+    },
+    {
+      "province": 10581,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10583,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10804,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10806,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10807,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10808,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10809,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10810,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10817,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10819,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10820,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10821,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10823,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10824,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10825,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10826,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10827,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10828,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 10838,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10839,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10846,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10847,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10848,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10849,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10850,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 10870,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 10871,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 10872,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 10877,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 10880,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 11029,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11030,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11031,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11032,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11033,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11034,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11173,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 11194,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11195,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11196,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11197,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11198,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11304,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 11305,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 11307,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 11308,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 11309,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 11320,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 11322,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 11328,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11529,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11533,
+      "from": "nago_h",
+      "to": "gold_h",
+      "reason": "Independent Nogai Horde is a later successor polity."
+    },
+    {
+      "province": 11567,
+      "from": "tra3_h",
+      "to": "gold_h",
+      "reason": "Independent Astrakhan Khanate is a later successor polity."
+    },
+    {
+      "province": 12173,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 12175,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    },
+    {
+      "province": 12609,
+      "from": "crkh_h",
+      "to": "gold_h",
+      "reason": "No independent Crimean Khanate before the fifteenth century."
+    }
+  ],
+  "capital_matches": {
+    "tur_m": 1153,
+    "clas_d": 1799,
+    "chup3_m": 2574,
+    "medinju_m": 2607,
+    "ser2_m": 3067,
+    "bul_m": 3177,
+    "medsarbad_m": 10570,
+    "papa_o": 133,
+    "muzz3_m": 10553,
+    "medgampola_m": 5538,
+    "arb2_m": 2279
+  },
+  "capital_matches_missing": [],
+  "limitations": [
+    "Fixed province shapes; political boundaries are approximations.",
+    "The base scenario includes small polities whose exact 1350 status has not been independently verified.",
+    "Inherited flag art is a game asset, not a claim of authenticated fourteenth-century flags."
+  ],
+  "province_ownership_changes": 545,
+  "polity_relabels": [
+    {
+      "slot": 293,
+      "from": "sard_m2",
+      "to": "sard_m"
+    },
+    {
+      "slot": 336,
+      "from": "ser_m2",
+      "to": "ser2_m"
+    },
+    {
+      "slot": 338,
+      "from": "majj_m",
+      "to": "arb2_m"
+    },
+    {
+      "slot": 339,
+      "from": "tras2_m",
+      "to": "medinju_m"
+    },
+    {
+      "slot": 393,
+      "from": "krr_m",
+      "to": "medsarbad_m"
+    },
+    {
+      "slot": 394,
+      "from": "hera3_m",
+      "to": "medkart_m"
+    },
+    {
+      "slot": 402,
+      "from": "whi3_h",
+      "to": "gold_h"
+    },
+    {
+      "slot": 485,
+      "from": "lanx_m",
+      "to": "medluang_m"
+    },
+    {
+      "slot": 496,
+      "from": "kott_m",
+      "to": "medgampola_m"
+    },
+    {
+      "slot": 805,
+      "from": "azte_t",
+      "to": "medteno_t"
+    }
+  ],
+  "gampola_capital_note": "The Kandy province represents the Gampola highland seat at this map resolution."
+}
