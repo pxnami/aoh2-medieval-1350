@@ -2,6 +2,10 @@
 
 An English-language scenario mod starting on **1 January 1350**, available in two versions: a smaller **4K** scenario and a more detailed **14K** revision. Both use the game's existing maps and require an installed copy of **Age of History 2: Definitive Edition**.
 
+![The 14K scenario running in-game on 1 January 1350](images/14k-in-game.png)
+
+*In-game screenshot of the 14K version at the start of the campaign.*
+
 ## Downloads
 
 | Version | Download | Map to select | Scenario to select |
